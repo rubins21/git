@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FMADIO',
   tagline: 'Documentation',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docusaurus-fmadio.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
